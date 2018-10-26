@@ -102,7 +102,7 @@ Erlang is a general purpose or you might say a functional programming language a
 
 - [x] **Fortran**
 
-- [x] **Go**
+- [x]Go
 
 Go is a programming language created in 2009 by Google employees Robert Griesemer, Rob Pike, and Ken Thompson. Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
@@ -183,6 +183,8 @@ The Shakespeare Programming Language is a programming language created with the 
 - [x] **Shell**
 
 - [x] **Solidity**
+
+Solidity is a contract-oriented programming language for writing smart contracts.[1] It is used for implementing smart contracts[2] on various blockchain platforms.[3][4][5] It was developed by Gavin Wood, Christian Reitwiessner, Alex Beregszaszi, Liana Husikyan, Yoichi Hirai and several former Ethereum core contributors to enable writing smart contracts on blockchain platforms such as Ethereum
 
 - [x] **SQL**
 
